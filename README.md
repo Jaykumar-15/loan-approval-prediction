@@ -83,22 +83,24 @@ The dataset contains applicant information such as:
 ## 📸 Results
 
 ### Dataset Preview
-![Dataset](images/img_01.png)
+![Dataset](images/Img_01.png)
 
 ### Data Information
-![Info](images/img_02.png)
+![Info](images/Img_02.png)
 
 ### Missing Values Handling
-![Missing](images/img_03.png)
+![Missing](images/Img_03.png)
 
 ### Feature Encoding
-![Encoding](images/img_04.png)
+![Encoding](images/Img_04.png)
 
 ### Model Evaluation (Classification Report)
-![Results](images/img_06.png)
+![Results](images/Img_06.png)
 ---
 
 ## 🚀 How to Run
 1. Install dependencies:
    ```bash
    pip install pandas numpy scikit-learn matplotlib seaborn
+2. Open and run:
+   loan_prediction.ipynb
