@@ -96,6 +96,9 @@ The dataset contains applicant information such as:
 
 ### Model Evaluation (Classification Report)
 ![Results](images/Img_06.png)
+
+### Model Evaluation (Classification Report)
+![Results](images/Img_07.png)
 ---
 
 ## 🚀 How to Run
