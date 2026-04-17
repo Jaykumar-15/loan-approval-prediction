@@ -103,4 +103,5 @@ The dataset contains applicant information such as:
    ```bash
    pip install pandas numpy scikit-learn matplotlib seaborn
 2. Open and run:
+   ```bash
    loan_prediction.ipynb
