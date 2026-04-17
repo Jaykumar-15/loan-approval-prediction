@@ -83,20 +83,19 @@ The dataset contains applicant information such as:
 ## 📸 Results
 
 ### Dataset Preview
-![Dataset]()
+![Dataset](images/img_01.png)
 
 ### Data Information
-![Info]()
+![Info](images/img_02.png)
 
 ### Missing Values Handling
-![Missing]()
+![Missing](images/img_03.png)
 
 ### Feature Encoding
-![Encoding]()
+![Encoding](images/img_04.png)
 
 ### Model Evaluation (Classification Report)
-![Results]()
-
+![Results](images/img_06.png)
 ---
 
 ## 🚀 How to Run
